@@ -24,10 +24,7 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="ticTacToe.png" width="400" alt="Tic Tac Toe Game Screenshot">
-  <p><i>Basic 2-player Tic Tac Toe gameplay</i></p>
-</div>
+![Web Preview]("ticTacToe.png)
 
 ---
 
