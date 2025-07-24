@@ -25,11 +25,9 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/game-play.png" width="400" alt="Tic Tac Toe Game Screenshot">
+  <img src="ticTacToe.png" width="400" alt="Tic Tac Toe Game Screenshot">
   <p><i>Basic 2-player Tic Tac Toe gameplay</i></p>
 </div>
-
-> 📌 You can add your own screenshot by placing an image in a `screenshots/` folder and updating the path above.
 
 ---
 
