@@ -16,7 +16,7 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 
 ## 📸 Screenshots
 
-![Web Preview]("ticTacToe.png)
+![Web Preview](ticTacToe.png)
 
 ---
 
@@ -40,7 +40,7 @@ A simple and interactive 2-player Tic Tac Toe game built using HTML, CSS, and Ja
 ## 🧑‍💻 Author
 
 **Prachi Khojraj Dhunde**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dhunde-408b2825a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dhunde-408b2825a)
 
 ---
 
